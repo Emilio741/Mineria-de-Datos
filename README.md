@@ -12,3 +12,7 @@
 [EjerciciosLimpiezaPython](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 
 [Avance PIA](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo6.ipynb)
+## FASE 2
+[Presentacion Tecnica de Mineria](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Presentacion_Metricas-de-Evaluacion_Equipo6.pdf)
+
+[Calificaciones Mini Examenes](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Calificacion_Metricas-de-Evaluacion_Equipo6.pdf)
