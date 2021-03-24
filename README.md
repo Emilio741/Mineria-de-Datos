@@ -16,3 +16,5 @@
 [Presentacion Tecnica de Mineria](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Presentacion_Metricas-de-Evaluacion_Equipo6.pdf)
 
 [Calificaciones Mini Examenes](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Calificacion_Metricas-de-Evaluacion_Equipo6.pdf)
+
+[Mapa Mental II](https://github.com/Emilio741/Mineria-de-Datos/blob/main/MapaMental_2_1852600.pdf)
