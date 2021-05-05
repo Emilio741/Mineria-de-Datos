@@ -25,4 +25,4 @@
 
 ## FASE 3
 
-[Poster](https://github.com/Emilio741/Mineria-de-Datos/blob/main/poster_equipo6.pdf)
+[Poster](https://github.com/Emilio741/Mineria-de-Datos/blob/main/PIA_002_Equipo6.pdf)
